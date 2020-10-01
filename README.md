@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/shunak/docker-nginx-for-react-typescript-production-environment/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/shunak/docker-nginx-for-react-typescript-production-environment/actions?query=workflow%3A%22Docker+Image+CI%22)
 # How to use
 after you used [this development environment](https://github.com/shunak/docker-react-typescript-development-environment), this repos will help you.<br>
 ## install
