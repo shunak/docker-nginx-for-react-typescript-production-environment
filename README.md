@@ -7,7 +7,7 @@ how to make this is, in the development dir, <br>
 yarn build
 ```
 makes production artifact directory ``build/`` <br>
-you must make this build/ directory.
+To use this, you must make this ``build/`` directory before installation.
 
 
 ```
