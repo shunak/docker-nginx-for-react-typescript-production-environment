@@ -15,7 +15,6 @@ git clone https://github.com/shunak/docker-nginx-for-react-typescript-production
 ``` 
 ```
 cd docker-nginx-for-react-typescript-production-environment
-
 ```
 ```
 cp docker-compose.yml ../
